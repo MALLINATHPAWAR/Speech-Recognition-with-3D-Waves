@@ -4,7 +4,7 @@
 Just happing 3D Wavves
 Version
 Current Version : 0.0.0.2
-# Dependencies ( VERSION MUST BE MATCHED EXACTLY!)
+# Dependencies
 import os
 from pathlib import Path
 import IPython.display as ipd
